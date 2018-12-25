@@ -1,4 +1,4 @@
-# PHPStan - PHP Static Analysis Tool
+#PHPStan - PHP Static Analysis Tool
 
 [![Build Status](https://travis-ci.org/phpstan/phpstan.svg)](https://travis-ci.org/phpstan/phpstan)
 [![Latest Stable Version](https://poser.pugx.org/phpstan/phpstan/v/stable)](https://packagist.org/packages/phpstan/phpstan)
